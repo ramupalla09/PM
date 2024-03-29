@@ -1,2 +1,2 @@
 # PM
-The new Data Sharing Hotspot(DSH).
+The new data sharing Hotspot(DSH).
